@@ -13,9 +13,9 @@ The app demonstrates clean separation of concerns across data retrieval, model o
 
 ## App Screenshot
 
-```md
+```
 <p align="center">
-  <img src="images/app_screenshot.png" width="350" alt="Quiz App Screenshot">
+  <img src="images/screenshot.png" width="350" alt="Quiz App Screenshot">
 </p>
 ```
 
