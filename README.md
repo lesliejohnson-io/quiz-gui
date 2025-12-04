@@ -1,23 +1,21 @@
 # 🤓 Quiz App
 
 A simple but extensible **True/False Quiz Application** built with Python, Tkinter, and the Open Trivia Database API.
-The app demonstrates clean separation of concerns across data retrieval, model objects, UI, and quiz logic — making it easy to extend into a full-featured learning or game application.
+The app demonstrates clean separation of concerns across data retrieval, model objects, UI, and quiz logic. Easy to extend into a full-featured learning or game application.
 
 ---
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
-![Questions](https://img.shields.io/badge/Questions-OpenTDB_API-orange)
+![Questions](https://img.shields.io/badge/Questions-OpenTDB_API-green)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ---
 
-## App Screenshot
+## App Screenshot (it's ugly - using Tkinter)
 
-```
 <p align="center">
-  <img src="images/screenshot.png" width="350" alt="Quiz App Screenshot">
+  <img src="screenshot.png" alt="Quizzler interface using Tkinter" width="30%">
 </p>
-```
 
 ---
 
