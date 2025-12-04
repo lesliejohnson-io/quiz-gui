@@ -14,7 +14,7 @@ class QuizBrain:
         self.current_question = self.question_list[self.question_number]
         self.question_number += 1
         q_text = html.unescape(self.current_question.text)
-        return f"Q.{self.question_number}: {q_text}"
+        return f"Q{self.question_number}: {q_text}"
 
     def check_answer(self, user_answer):
         correct_answer = self.current_question.answer
